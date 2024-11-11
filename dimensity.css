@@ -1,0 +1,92 @@
+
+*{
+  background: black ;
+  :Selection
+  
+}
+::selection{
+  background-color:black;
+  color: red;
+}
+.mtk{
+  color: white ;
+}
+.container{
+  text-align: center ;
+}
+.container2{
+  color: white ;
+  display:flexx ;
+  gap:20px;
+  text-align: center ;
+  justify-content: center;
+  font-family: fantasy;
+  padding: 25px;
+ space-between: 220px;
+}
+#homeBtn{ 
+  text-decoration: underline ;
+  color:white ;
+  background-color: black ;
+  width: 65px;
+  height: 25px ;
+  border: 2px solid blue;
+  text-align: center ;
+  gap: 20px ;
+  
+  
+}
+img{ 
+  position: relative;
+  bottom: -20px;
+  border: 2px solid red;
+  border-radius: 10px;
+
+}
+h1{
+  color: white ;
+  font-family: fantasy;
+  text-decoration: underline;
+  text-align: center;
+}
+table{
+  color: white ;
+  position: absolute;
+  top: 400px;
+  width: 300px;
+  height: 250px;
+  left: 43px;
+  border: 2px solid blue;
+  border-radius: 10px;
+  padding: 40px ;
+  box-shadow: 3px 3px 3px 3px red;
+  
+}
+td{
+  color:white;
+  border: solid red;
+  width: 270px;
+  height: 10px;
+  box-shadow: 3px 3px 3px 3px blue;
+}
+ table:hover {
+      text-shadow: 0 0 8px rgba(0, 123, 255, 0.8), 
+                   0 0 15px rgba(0, 123, 255, 0.6);
+  
+}
+ver{
+  color: yellow;
+ background-color: yellow;
+}
+h2{
+  color: white ;
+  text-decoration: underline ;
+  position: absolute;
+  top: 595px;
+  left: 110px;
+  box-shadow: 2px 2px 2px 2px yellow;
+}
+.h2:hover{
+  background-color: green;
+  color: purple ;
+}
